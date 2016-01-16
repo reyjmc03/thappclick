@@ -1,0 +1,60 @@
+body {
+  background-color: #0a1124 !important;
+}
+
+.logo {
+  padding-top: 200px;
+}
+
+.center-block-2 {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: auto !important;
+  margin-top: auto !important;
+}
+
+.right-block {
+  text-align: right; 
+  margin-left: auto;
+}
+
+.left-block {
+  display: block;
+  margin-right: auto;
+}
+
+.footer {
+  position: absolute;
+  bottom: 0px;
+  width: 100%;
+  height: 316px;
+  background-color: blue;
+}
+
+.phone {
+  position: absolute;
+  bottom: 0px;
+  margin-left: 800px;
+
+  display: none;
+
+  height: 0px;
+}
+
+/* Padding for spacing */
+.inner {
+  padding: 30px;
+}
+
+/*
+ * Cover
+ */
+
+.cover {
+  padding: 0 20px;
+}
+.cover .btn-lg {
+  padding: 10px 20px;
+  font-weight: bold;
+}
